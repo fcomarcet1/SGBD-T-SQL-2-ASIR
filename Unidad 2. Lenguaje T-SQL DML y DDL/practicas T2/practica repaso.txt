@@ -1,0 +1,4 @@
+--2)
+
+select strNombre,strDireccion + ',' + strCiudad  AS residencia
+from tblpacientes
